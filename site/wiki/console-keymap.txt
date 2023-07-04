@@ -1,5 +1,0 @@
-Console Keyboard Layout
-________________________________________________________________________________
-
-Refer to the bkeymaps documentation. #/wiki/pkg/bkeymaps
-
